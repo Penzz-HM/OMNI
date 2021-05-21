@@ -1,2 +1,0 @@
-#Conf file for notifications
-#main.py checks here for what notification types are enabled, notification scripts check there for creds
