@@ -5,3 +5,6 @@ Tracert Script (check for certain hops within a set tracert)
 Add env command to env variable(?)
 site to site traffic analyzer
 basic notifications (LEDs vs LCD)
+maintain an ARP table of devices that are online (?)
+log for when new devices are online (no email needed, just a log)
+periodic speed tests>write to a log file
