@@ -1,0 +1,1 @@
+#run a ping and tracert to any neighbor listed in config.con NEIGHBORS= line
