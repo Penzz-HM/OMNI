@@ -1,0 +1,7 @@
+Main running script
+SMTP Notification script
+Uptime script (looping ping, check for TTL)
+Tracert Script (check for certain hops within a set tracert)
+Add env command to env variable(?)
+site to site traffic analyzer
+basic notifications (LEDs vs LCD)
