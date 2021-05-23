@@ -13,4 +13,3 @@ Use the following as base install:
 https://downloads.raspberrypi.org/raspbian_full/images/raspbian_full-2020-02-14/2020-02-13-raspbian-buster-full.zip
 
 
-testing testing
