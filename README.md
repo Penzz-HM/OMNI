@@ -10,5 +10,4 @@ Update the ToDo file with your name when you are working on a file so we do not 
 Make sure to pull the latest stable branch before begining work, and merge your work into the testing branch for QA
 
 Use the following as base install:
-https://www.raspberrypi.org/software/
-Raspberry Pi Imager>Ubuntu Server 20.04.2 LTS (RPI 3/4/400)
+https://downloads.raspberrypi.org/raspbian_full/images/raspbian_full-2020-02-14/2020-02-13-raspbian-buster-full.zip
