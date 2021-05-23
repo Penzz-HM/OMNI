@@ -27,3 +27,6 @@ git push #push your changes to your web branch
 #on the web, you can submit a pull request to merge your code into the testing/live branch
 
 
+#to bring your branch up to day locally to match what is on the web:
+git checkout <branch>
+git pull
