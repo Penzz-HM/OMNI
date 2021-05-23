@@ -13,5 +13,7 @@ https://downloads.raspberrypi.org/raspbian_full/images/raspbian_full-2020-02-14/
 TO INSTALL:
 
 >git clone https://github.com/hackmypi/OMNI.git
+
 >cd OMNI
+
 >. ./install.sh
