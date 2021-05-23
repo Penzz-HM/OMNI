@@ -8,3 +8,4 @@ basic notifications (LEDs vs LCD)
 maintain an ARP table of devices that are online (?)
 log for when new devices are online (no email needed, just a log)
 periodic speed tests>write to a log file
+log collector
