@@ -10,4 +10,5 @@ Update the ToDo file with your name when you are working on a file so we do not 
 Make sure to pull the latest stable branch before begining work, and merge your work into the testing branch for QA
 
 Use the following as base install:
-https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-04-09/2021-03-04-raspios-buster-arm64-lite.zip
+https://www.raspberrypi.org/software/
+Raspberry Pi Imager>Ubuntu Server 20.04.2 LTS (RPI 3/4/400)
