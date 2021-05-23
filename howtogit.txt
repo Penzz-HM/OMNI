@@ -1,0 +1,19 @@
+git clone https://github.com/hackmypi/OMNI.git
+
+cd OMNI
+git fetch
+git checkout <branch>
+*git checkout -b (branch you want to make)
+git branch (see all branches on local)
+
+
+make changes
+
+git status to view if red
+
+git add .
+git commit -m "write your fucking notes here"
+(if yelled at, setup your git config)
+git push
+
+
