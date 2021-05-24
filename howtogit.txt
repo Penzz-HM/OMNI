@@ -1,0 +1,32 @@
+git clone https://github.com/hackmypi/OMNI.git
+
+cd OMNI
+
+git fetch #updates your baanch
+
+git checkout <branch> #switches you to that branch
+
+*git checkout -b (branch you want to make)
+
+git branch (see all branches on local)
+
+
+make changes
+
+
+#To push updates:
+git status #anything in red will NOT be added, add below
+git branch #verify you are on your dev branch
+
+git add . #do this to add your changes to the queue to push to your web branch
+git commit -m "write your fucking notes here" #push your changes to your web branch
+(if yelled at, setup your git config)
+git push #push your changes to your web branch
+
+
+#on the web, you can submit a pull request to merge your code into the testing/live branch
+
+
+#to bring your branch up to day locally to match what is on the web:
+git checkout <branch>
+git pull
