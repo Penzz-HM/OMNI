@@ -3,7 +3,7 @@
 #add anything to chron it needs to
 #overclock to 2ghz
 
-sudo python /home/pi/OMNI/setup/oc.py
+sudo python3 /home/pi/OMNI/setup/oc.py
 
 
 
