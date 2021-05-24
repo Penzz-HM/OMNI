@@ -6,6 +6,3 @@ def omniPing(arg1):
         return 'true'
     else:
         return 'false'
-
-
-omniPing('8.8.8.8')

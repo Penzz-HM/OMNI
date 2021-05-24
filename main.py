@@ -3,16 +3,14 @@
 
 import sys, os, datetime
 from heartbeat.omniPing import omniPing
-
-configFile = open('config.conf' , 'r')
+configFile = open('/home/pi/OMNI/config.conf' , 'r')
 configLines = configFile.readlines()
 configFile.close()
 #args = sys.argv[1]
 up = 'false'
 traceList = '' #a list of args to run tracerts to, formatted 'dest hop' per line
-
 if len(sys.argv)==1:
-    print('Use main.py -h for list of commands')
+    print('Use omni -h for list of commands')
     args = 'null'
 
 else:
@@ -25,6 +23,7 @@ else:
 if '-status' in args:
     up = omniPing('8.8.8.8')
     if up:
+        print('Online. Checking Traces:')
         for trace in traceList:
             os.system('python /home/pi/OMNI/trace/omniTrace.py ' + trace[0] + ' ' + trace[1])
 
