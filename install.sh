@@ -6,7 +6,7 @@
 
 sudo python3 /home/pi/OMNI/setup/oc.py
 sudo python3 /home/pi/OMNI/setup/hostname.py
-
+sudo python3 /home/pi/OMNI/setup/omniToPath.py
 
 
 read -p 'Press any key to reboot to apply changes'
